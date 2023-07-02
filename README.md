@@ -3,6 +3,8 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=comic+mono&weight=900&size=45&duration=3000&pause=1000&color=760101&center=true&vCenter=true&width=435&lines=Backend+Developer;Improvement+Lover" alt="Typing SVG" />
 </p>
+
+<p align= "center">  "Don’t stop when you are tired. Stop when you are done" </p>
 <!--
 **Camilo716/Camilo716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
