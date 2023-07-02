@@ -11,7 +11,7 @@
 <p align= "center">"Don’t stop when you are tired. Stop when you are done"</p>
 </br>
 
-<h1 align="center">Languages and Tools:</h1>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
     <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
