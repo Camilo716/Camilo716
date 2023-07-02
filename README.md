@@ -17,7 +17,7 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-1.png" alt="sqlserver" width="40" height="40"/></a>
     <a href="https://nunit.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" alt="nunit" width="40" height="40"/></a>
-    <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"><img src="https://api.nuget.org/v3-flatcontainer/efcore.bulkextensions/6.0.0-rc.1/icon" alt="entityframework" width="40" height="40"/></a>
+    <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"><img src="./img/EntityFramework.png" alt="entityframework" width="40" height="40"/></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/database-check-7195721-5847177.png" alt="linq" width="40" height="40"/></a>
     <a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 
