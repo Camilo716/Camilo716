@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there, I'm Camilo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there, I'm Camilo </b><img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif)" width="35"></h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+mono&weight=900&size=45&duration=3000&pause=1000&color=760101&center=true&vCenter=true&width=435&lines=Backend+Developer;Improvement+Lover" alt="Typing SVG" /></a>
