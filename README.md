@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+mono&weight=900&size=45&duration=3000&pause=1000&color=760101&center=true&vCenter=true&width=435&lines=Backend+Developer;Improvement+Lover" alt="Typing SVG" /></a>
+</p>
 <!--
 **Camilo716/Camilo716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
