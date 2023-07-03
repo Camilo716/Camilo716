@@ -19,7 +19,12 @@
     <a href="https://nunit.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4" alt="nunit" width="40" height="40"/></a>
     <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"><img src="./img/EntityFramework.png" alt="entityframework" width="40" height="40"/></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/database-check-7195721-5847177.png" alt="linq" width="40" height="40"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
     <a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+    
+</p>
+
+<p align="center"> 
 
 
 
