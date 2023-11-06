@@ -1,9 +1,11 @@
 <h1 align="center">
     <b>Hi there, I'm Milo </b>
     </br>
-    <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100">
 </h1>
 </br>
+<p align="center">
+    <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100">
+</p>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Comic+mono&size=45&duration=3000&pause=1000&color=850808&center=true&vCenter=true&width=435&lines=Backend+Developer;Lifelong+learner" alt="Typing SVG" />
