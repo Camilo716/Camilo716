@@ -21,7 +21,10 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" target="_blank" rel="noreferrer"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/database-check-7195721-5847177.png" alt="linq" width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
     <a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="nunit" width="40" height="40"/></a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="nunit" width="40" height="40"/></a>
+    <a href="https://www.tryton.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tryton_logo.svg/1200px-Tryton_logo.svg.png" alt="nunit" width="40" height="40"/></a>
+
 </p>
 
 <p align="center"> 
@@ -31,27 +34,11 @@
 </br>
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/camilogonzalezsanchez" target="_blank">
+<a href="https://www.linkedin.com/in/camilogonzalezsanchez" target="_blank"  style="text-decoration: none;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://gitea.onecluster.org/camilogs?tab=activity" target="_blank">
+<!-- <a href="https://gitea.onecluster.org/camilogs?tab=activity" target="_blank" style="text-decoration: none;">
 <img src=https://img.shields.io/badge/gitea-%2324292e.svg?&style=for-the-badge&logo=gitea&logoColor=green alt=github style="margin-bottom: 5px;" />
-</a> 
+</a> -->
 </div>
-
-
-<!--
-**Camilo716/Camilo716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
