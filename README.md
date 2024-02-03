@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/camilogonzalezsanchez" target="_blank"  style="text-decoration: none;">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
     </a>
-    <a href="https://www.linkedin.com/in/camilogonzalezsanchez" target="_blank"  style="text-decoration: none;">
+    <a href="https://camilo716.github.io/" target="_blank"  style="text-decoration: none;">
         <img src=https://img.shields.io/badge/Website-5000B3.svg?&style=for-the-badge&logo=codeium&logoColor=white alt=website/>
     </a>
 </div>
