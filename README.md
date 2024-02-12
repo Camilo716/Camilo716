@@ -1,6 +1,3 @@
-<h1 align="center">
-    <b>Hi there, I'm Milo </b>
-</h1>
 <p align="center">
     <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100">
 </p>
