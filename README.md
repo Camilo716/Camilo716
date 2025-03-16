@@ -7,6 +7,5 @@
 </p>
 
 <p align= "center"><strong>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand"</strong></p>
-<p align= "center">Martin Fowler</p>
 
 </br>
